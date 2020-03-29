@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08ceea17-22bf-4c4b-a231-89a263e5e05f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yd2oLP7Db4jARXBYrYG4tFHIqd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.bestBuy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/bestBuy" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/bestBuy/" />
+      <recent name="$PROJECT_DIR$/src/test/resources/config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProductsRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BestBuyAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestBuy.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bestBuy.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.bestBuy.runners.ProductsRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ProductsRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08ceea17-22bf-4c4b-a231-89a263e5e05f" name="Default Changelist" comment="" />
+      <created>1583258325454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583258325454</updated>
+      <workItem from="1583258330639" duration="996000" />
+      <workItem from="1583260069652" duration="2263000" />
+      <workItem from="1583809317809" duration="927000" />
+      <workItem from="1584037909851" duration="4883000" />
+      <workItem from="1584047085121" duration="4584000" />
+      <workItem from="1584161277951" duration="21200000" />
+      <workItem from="1584243926444" duration="823000" />
+      <workItem from="1584482735030" duration="923000" />
+      <workItem from="1585104927923" duration="988000" />
+      <workItem from="1585359663600" duration="5231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="117" key="#Template" timestamp="1584217300296">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="117" key="#Template/0.0.1440.900@0.0.1440.900" timestamp="1584217300296" />
+    <state x="458" y="224" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585360078925">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="224" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1440.900@0.0.1440.900" timestamp="1585360078925" />
+    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser" timestamp="1584218110441">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="161" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1584218110441" />
+    <state x="523" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585359751286">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="523" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1585359751286" />
+    <state x="492" y="340" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1585359755786">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="492" y="340" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1440.900@0.0.1440.900" timestamp="1585359755786" />
+    <state x="312" y="55" key="CommitChangelistDialog2" timestamp="1585452930629">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="312" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585452930629" />
+    <state width="1398" height="202" key="GridCell.Tab.0.bottom" timestamp="1585362412880">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="202" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585362412880" />
+    <state width="1398" height="202" key="GridCell.Tab.0.center" timestamp="1585362412877">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="202" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585362412877" />
+    <state width="1398" height="202" key="GridCell.Tab.0.left" timestamp="1585362412876">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="202" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585362412876" />
+    <state width="1398" height="202" key="GridCell.Tab.0.right" timestamp="1585362412879">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="202" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585362412879" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1585362349787">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585362349787" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1585362349784">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1585362349784" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1585362349783">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1585362349783" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1585362349786">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1585362349786" />
+    <state x="258" y="113" key="Maven.ArtifactSearchDialog" timestamp="1584243833654">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="258" y="113" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1584243833654" />
+    <state width="720" height="450" key="XDebugger.FullValuePopup" timestamp="1584211586684">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="720" height="450" key="XDebugger.FullValuePopup/0.0.1440.900@0.0.1440.900" timestamp="1584211586684" />
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1584161285401">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="376" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584161285401" />
+    <state x="114" y="151" key="new project wizard" timestamp="1583263595365">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="114" y="151" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1583263595365" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1583259001489">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1583259001489" />
+  </component>
+</project>
